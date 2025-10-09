@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "app_tareas",
+            "cwd": "app_tareas",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app_tareas (profile mode)",
+            "cwd": "app_tareas",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app_tareas (release mode)",
+            "cwd": "app_tareas",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "inacap_login_app",
+            "cwd": "inacap_login_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "inacap_login_app (profile mode)",
+            "cwd": "inacap_login_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "inacap_login_app (release mode)",
+            "cwd": "inacap_login_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "inacap_login_app",
+            "cwd": "app_tareas\\inacap_login_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "inacap_login_app (profile mode)",
+            "cwd": "app_tareas\\inacap_login_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "inacap_login_app (release mode)",
+            "cwd": "app_tareas\\inacap_login_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
