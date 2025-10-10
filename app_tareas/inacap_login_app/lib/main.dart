@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     const rojoInacap = Color(0xFFB71C1C);
 
     return MaterialApp(
-      title: 'Evaluación Flutter INACAP',
+      title: 'APP Tareas',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: rojoInacap,
