@@ -1,16 +1,37 @@
-# inacap_login_app
+# 📱 Aplicación Flutter – Login y Listado de Evaluaciones (INACAP)
 
-A new Flutter project.
+Proyecto desarrollado como evaluación práctica para la asignatura de **Aplicaciones Móviles para IOT**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+##  **Estructura del Proyecto**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+lib/
+├── main.dart
+├── login_screen.dart
+├── evaluaciones_screen.dart
+└── models/
+└── evaluacion.dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+##  **Características Técnicas**
+
+- **Framework:** Flutter (SDK 3.x o superior)
+- **Lenguaje:** Dart
+- **Gestión de estado:** Stateful Widgets + `setState()`
+- **Diseño responsivo:** uso de `Expanded`, `ListView`, `Padding`
+- **Widgets clave:**  
+  `Scaffold`, `AppBar`, `TextFormField`, `ElevatedButton`, `ListTile`,  
+  `ListView.builder`, `Dismissible`, `ChoiceChip`, `SnackBar`, `ModalBottomSheet`
+
+---
+
+
+##  **Ejecución del Proyecto**
+
+1. Clona el repositorio:
+   
+   git clone https://github.com/Pavivinola/appmovil.git
+   cd inacap_login_app
