@@ -1,10 +1,12 @@
 class Evaluacion {
-  final String title;
-  final DateTime dueDate;
-  final bool isDone;
+  String title;
+  String? note;
+  DateTime dueDate;
+  bool isDone;
 
   Evaluacion({
     required this.title,
+    this.note,
     required this.dueDate,
     this.isDone = false,
   });
