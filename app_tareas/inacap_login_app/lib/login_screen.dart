@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:inacap_login_app/evaluaciones_screen.dart';
 
 class LoginScreen extends StatefulWidget {
+  const LoginScreen({super.key});
+
   @override
   State<LoginScreen> createState() => _LoginScreenState();
 }
